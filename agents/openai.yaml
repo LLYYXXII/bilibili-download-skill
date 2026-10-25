@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Download (No Watermark)"
+  short_description: "Download Bilibili source streams without platform watermark"
+  default_prompt: "Download this Bilibili video at the highest quality I am entitled to, without platform watermark, and clean up any login data."
